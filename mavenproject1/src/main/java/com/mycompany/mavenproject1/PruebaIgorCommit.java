@@ -10,5 +10,4 @@ package com.mycompany.mavenproject1;
  * @author igorg
  */
 public class PruebaIgorCommit {
-    System.out.println("que pasa");
 }
